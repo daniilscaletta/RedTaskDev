@@ -28,9 +28,9 @@ docs/                        # Документация
     guidelines.md            # Рекомендации по разработке
     rules.md                 # Правила
 
-.github/ISSUE_TEMPLATE/    # Шаблоны для Issues
+.github/ISSUE_TEMPLATE/      # Шаблоны для Issues
     task_template.md         # Шаблон задачи
 
-.gitignore                 # Игнорируемые файлы
-LICENSE                    # Лицензия
-README.md                  # Руководство
+.gitignore                   # Игнорируемые файлы
+LICENSE                      # Лицензия
+README.md                    # Руководство
