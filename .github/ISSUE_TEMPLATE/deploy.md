@@ -1,14 +1,15 @@
 ### **Шаблон для Деплоя и тестов**
-Файл: `.github/ISSUE_TEMPLATE/Deploy.md`
+Файл: `.github/ISSUE_TEMPLATE/deploy.md`
 
+```markdown
 ---
 name: Деплой и тесты
 about: Шаблон для описания задач по развёртыванию и тестированию
 title: "[Деплой] Название таска"
 labels: деплой
 assignees: 'mister_scaletta'
-
 ---
+```
 
 ### Деплой и тестирование
 
