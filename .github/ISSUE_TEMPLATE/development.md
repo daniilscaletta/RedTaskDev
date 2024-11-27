@@ -2,7 +2,7 @@
 name: Разработка
 description: Шаблон для описания задач по разработке
 title: "[Разработка] Название таска"
-labels: "разработка"
+labels: разработка
 assignees: 'mister_scaletta'
 ---
 ```
