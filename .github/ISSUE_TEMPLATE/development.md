@@ -1,7 +1,3 @@
-### **Шаблон для Деплоя и тестов**
-Файл: `.github/ISSUE_TEMPLATE/development.md`
-
-```markdown
 ---
 name: Разработка
 description: Шаблон для описания задач по разработке
