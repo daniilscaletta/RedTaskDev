@@ -2,8 +2,8 @@
 name: Новая задача
 about: Создание задачи для CTF
 title: "[Категория] Название задачи"
-labels: ''
-assignees: ''
+labels: 'pwn', 'reverse', 'medium', 
+assignees: 'redUser1'
 
 ---
 
@@ -11,10 +11,10 @@ assignees: ''
 Укажите категорию задачи, выбрав одну из следующих:
 - [ ] Web
 - [ ] Crypto
-- [ ] Reverse
+- [x] Reverse
 - [ ] Misc
 - [ ] Forensics
-- [ ] Pwn
+- [x] Pwn
 - [ ] OSINT
 - [ ] Other
 
